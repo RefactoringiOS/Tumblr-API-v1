@@ -1,10 +1,4 @@
-//
-//  DataModel.m
-//  ZDROJEK
-//
-//  Created by Erinson Villarroel on 21/12/16.
-//  Copyright © 2016 Erinson Villarroel. All rights reserved.
-//
+
 
 #import "DataModel.h"
 

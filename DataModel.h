@@ -1,8 +1,3 @@
-//  DataModel.h
-//  TableViewController.h
-//  Tumblr API v1 
-
-
 
 #import "TableViewController.h"
 
